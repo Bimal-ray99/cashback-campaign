@@ -1,6 +1,6 @@
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2f0ea161-6855-42ff-b237-415c71b51725" />
 
-# Cashback Backend — Coupon Redemption API
+# Cashback Backend - Coupon Redemption API
 
 > Node.js · Express · MongoDB · Cashfree Payouts · Fast2SMS OTP
 
