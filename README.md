@@ -1,4 +1,6 @@
-# Cashback Backend — Production-Grade Coupon Redemption API
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2f0ea161-6855-42ff-b237-415c71b51725" />
+
+# Cashback Backend — Coupon Redemption API
 
 > Node.js · Express · MongoDB · Cashfree Payouts · Fast2SMS OTP
 
@@ -50,6 +52,7 @@ rate limiter protecting both the OTP flow and the general API surface.
 │  Coupon      │        │  Razorpay (legacy)        │
 └──────────────┘        └──────────────────────────┘
 ```
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f6140bee-ec36-4493-a04b-7877005d327d" />
 
 ---
 
